@@ -2,9 +2,9 @@ const settings = {
   "name": "hello-frontity",
   "state": {
     "frontity": {
-      "url": "https://test.frontity.org",
-      "title": "Test Frontity Blog",
-      "description": "WordPress installation for Frontity development"
+      "url": "https://isangbata-isangtasa.org",
+      "title": "Isang Bata, Isang Tasa",
+      "description": "Charity organization that provides nutrition and developmental help for pre-school kids"
     }
   },
   "packages": [
@@ -45,7 +45,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://test.frontity.org"
+          "url": "https://isangbata-isangtasa.org"
         }
       }
     },
